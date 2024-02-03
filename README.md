@@ -25,8 +25,8 @@ This project has 7 sections:
 ## Vizualizations:
 
 ![California Cases](images/california_cases.png)
-![California Cases and Deaths](images/california_deaths_and_cases_testing_model.png )
-![GlobalChoropleth](images/global_choropleth.png)
+![California Cases and Deaths](images/california_deaths_and_cases_testing_model .png )
+![Global Choropleth](images/global_choropleth .png)
 
 ### References:
 Skill Share Project: Build an Interactive Data Analytics Dashboard with Python Taught by Ted Petrou.
