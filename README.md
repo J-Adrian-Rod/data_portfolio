@@ -25,7 +25,7 @@ This project has 7 sections:
 ## Vizualizations:
 
 ![California Cases](images/california_cases.png)
-![California Cases and Deaths](images/california_deaths_and_cases_testing_model .png )
+![California Cases and Deaths](images/california_deaths_and_cases_testing_model .png)
 ![Global Choropleth](images/global_choropleth .png)
 
 ### References:
