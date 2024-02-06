@@ -23,7 +23,7 @@ This project has 7 sections:
 [Johns Hopkins COVID-19 GitHub repository](https://github.com/CSSEGISandData/COVID-19)
 
 ## Vizualizations:
-#### California Cases Predictions
+#### California Cases Predictions:
 ![California Cases:](images/california_cases.png)
 #### California Cases and Deaths:
 ![California Cases and Deaths:](images/california_deaths_and_cases_testing_model.png)
