@@ -1,5 +1,5 @@
 
-# COVID Trend Projections
+# COVID-19 Time Series Analysis
 
 
 ## Overview:
