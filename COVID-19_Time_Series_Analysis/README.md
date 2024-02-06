@@ -25,9 +25,9 @@ This project has 7 sections:
 ## Vizualizations:
 #### California Cases Predictions
 ![California Cases:](images/california_cases.png)
-#### California Cases and Deaths
+#### California Cases and Deaths:
 ![California Cases and Deaths:](images/california_deaths_and_cases_testing_model.png)
-#### Global Choropleth
+#### Global Choropleth:
 ![Global Choropleth of COVID-19 Deaths:](images/global_choropleth.png)
 
 ### References:
