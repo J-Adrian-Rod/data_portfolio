@@ -20,7 +20,7 @@ Showcasing this project as a PDF effectively avoids the challenges of directly u
 
 ## Vizualizations:
 
-![Streams Over Time](images/Streams Over Time.png)
+![Streams Over Time](images/Streams Over Time .png)
 ![Top 10 Most Played Songs](images/Top 10 Most Played Songs.png )
 ![Scatter Plot Rank Vs. Minutes Played](images/Scatter Plot Rank Vs. Minutes Played.png)
 ![Audio Features Pairplot](images/Audio Features Pairplot.png)
