@@ -24,6 +24,7 @@ Showcasing this project as a PDF effectively avoids the challenges of directly u
 ![Top 10 Most Played Songs](images/Top 10 Most Played Songs.png )
 ![Scatter Plot Rank Vs. Minutes Played](images/Scatter Plot Rank Vs. Minutes Played.png)
 ![Audio Features Pairplot](images/Audio Features Pairplot.png)
+![Audio Features Correlation Heat Map](images/Audio Features Correlation Heat Map.png)
 
 ### References:
 https://www.spotify.com/
