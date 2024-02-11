@@ -21,9 +21,9 @@ This project has 7 sections:
 
 ## Accessibility
 To ensure that the contents of this repository are accessible and convenient for everyone, I provide two formats for the project materials:
-### PDF Versions:
+#### PDF Versions:
 These PDFs offer an easy way to view the project's content without additional software, making it more accessible on various devices or for printing.
-### Jupyter Notebooks:
+#### Jupyter Notebooks:
 These notebooks allow you to run the code, modify analyses, and explore the datasets firsthand. Downloading the Jupyter Notebooks locally provides a dynamic and engaging way to engage with the methodologies and conclusions I've drawn in this project.
 
 ## Data Sources:
