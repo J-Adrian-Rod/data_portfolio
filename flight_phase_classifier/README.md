@@ -1,6 +1,6 @@
 # Flight Phase Classification and Visualization
 
-This project analyzes aircraft flight data to identify different flight phases using time-series feature engineering and clustering. The workflow includes data exploration, cleaning, feature creation, and visualization of patterns related to altitude and flight dynamics.
+This project analyzes NASA aircraft flight data to identify different flight phases using time-series feature engineering and clustering. The workflow includes data exploration, cleaning, feature creation, and visualization of patterns related to altitude and flight dynamics.
 
 ## Project Files
 
