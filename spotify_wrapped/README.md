@@ -1,6 +1,6 @@
 # Spotify Wrapped Data Enrichment and Analysis
 
-This project analyzes a user's Spotify listening history by enriching it with metadata and audio features using the Spotify Web API. The goal is to replicate and expand on the insights provided by Spotify Wrapped, including top songs, artists, and listening trends.
+This project analyzes my Spotify listening history by enriching it with metadata and audio features using the Spotify Web API. The goal is to replicate and expand on the insights provided by the yearly Spotify Wrapped, including top songs, artists, and listening trends.
 
 ## Project Files
 
